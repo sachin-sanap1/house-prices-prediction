@@ -27,7 +27,6 @@ A machine learning project to predict house prices using historical housing data
 
 ## 🤖 Models Used
 - Linear Regression
-- Random Forest Regressor
 
 ## 📈 Outcome
 - Successfully generated house price predictions
